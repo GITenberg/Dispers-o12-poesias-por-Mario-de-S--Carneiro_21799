@@ -1,0 +1,53 @@
+_repo: Dispers-o12-poesias-por-Mario-de-S--Carneiro_21799
+_version: 0.1.0
+alternative_title: "Dispersão\r\n12 poesias por Mário de Sá-Carneiro"
+contributor:
+  illustrator:
+    agent_name: Pacheco, José
+    alias: Pacheco, Jose
+    birthdate: 1885
+    deathdate: 1934
+    gutenberg_agent_id: '26231'
+    url: http://www.gutenberg.org/2009/agents/26231
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sá-Carneiro, Mário de
+    aliases:
+    - Sá Carneiro, Mário de
+    - Sá Carneiro, Mário
+    - Sa-Carneiro, Mario de
+    birthdate: 1890
+    deathdate: 1916
+    gutenberg_agent_id: '24897'
+    url: http://www.gutenberg.org/2009/agents/24897
+    wikipedia:
+    - http://en.wikipedia.org/wiki/M%C3%A1rio_de_S%C3%A1-Carneiro
+    - http://pt.wikipedia.org/wiki/M%C3%A1rio_de_S%C3%A1-Carneiro
+description: ''
+gutenberg_bookshelf: PT Poesia
+gutenberg_issued: '2007-06-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21799'
+language: pt
+language_note: This ebook uses a beginning of the 20th century spelling.
+production_note: Produced by Tiago Tejo
+publication_note: "Lisboa:\r\nEm casa do autor\r\n1, Travessa do Carmo--Lisboa\r\n\
+  Tipografia do Comercio\r\n1914"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Portuguese poetry'
+- !lcsh 'Poetry'
+tableOfContents: "I--Partida\r\nII--Escavação\r\nIII--Inter-sonho\r\nIV--Alcool\r\n\
+  V--Vontade de dormir\r\nVI--Dispersão\r\nVII--Estátua falsa\r\nVIII--Quasi\r\nIX--Como\
+  \ eu não possuo\r\nX--Alem-tedio\r\nXI--Rodopio\r\nXII--A Queda"
+title: 'Dispersão
+
+  12 poesias por Mario de Sá-Carneiro'
+url: http://www.gutenberg.org/ebooks/21799
