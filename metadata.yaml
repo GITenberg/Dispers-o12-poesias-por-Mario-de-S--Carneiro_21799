@@ -27,6 +27,8 @@ creator:
     - http://en.wikipedia.org/wiki/M%C3%A1rio_de_S%C3%A1-Carneiro
     - http://pt.wikipedia.org/wiki/M%C3%A1rio_de_S%C3%A1-Carneiro
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21799#Dispers-o12-poesias-por-Mario-de-S--Carneiro
 gutenberg_bookshelf: PT Poesia
 gutenberg_issued: '2007-06-11'
 gutenberg_type: Text
